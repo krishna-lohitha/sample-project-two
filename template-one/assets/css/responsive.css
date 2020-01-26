@@ -1,0 +1,341 @@
+@media (max-width: 575.98px) {
+    .ban-one-subt h4 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .navbar {
+        padding: 10px 15px !important;
+    }
+
+    .container {
+        padding: 0px;
+    }
+
+    .card {
+        margin: 20px;
+        text-align: center;
+    }
+
+    .ban-one-title h1 {
+        font-size: 35px;
+
+    }
+
+    .img {
+        margin-left: 5px;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+        font-size: 20px;
+        padding-top: 20px;
+    }
+
+    .ban-one-title {
+        padding-top: 50px;
+    }
+
+    .btn-one {
+        padding: 10px 20px;
+        font-size: 20px;
+        margin-left: 15px;
+    }
+
+    .ban-one-subt h4 {}
+
+    .ban-one-subt {
+        padding: 20px 15px 0px 15px;
+    }
+
+    /*vegeterian*/
+
+    #info-ban-two {
+        padding: 0px;
+    }
+
+    .ban-sec-1 {
+        padding: 0px;
+    }
+
+    #ban-five-sec1 {
+        padding: 0px;
+    }
+
+    #ban-two {
+        padding-top: 10px;
+    }
+
+    .sec1-title {
+        padding: 70px 15px 0px 15px;
+
+    }
+
+    .sec1-subt {
+        padding: 0px 15px;
+    }
+
+    .ban-one-title {
+        font-size: 65px;
+        padding: 30px 15px 0px 15px;
+    }
+
+    .button-one {
+        padding-bottom: 65px;
+    }
+
+    .ban-three-title h2 {
+        padding: 0px 15px;
+    }
+
+    .ban-three-subt {
+        padding: 10px 15px 100px 15px;
+    }
+
+    #ban-four-section1 {
+        padding: 0px;
+    }
+
+    /*savenuts*    12.10*/
+    .nuts-bantop-title h1 {
+        font-size: 40px;
+    }
+
+    .title {
+        padding-top: 45px;
+    }
+
+    .nuts-bantop-subt h3 {
+        font-size: 25px;
+    }
+
+    .nuts-btn-one {
+        font-size: 18PX;
+        padding: 15px 30px;
+    }
+
+    #nuts-banner-top-sec2 {
+        padding: 0px 15px;
+    }
+
+    #nuts-ban-one {
+        padding: 0px;
+    }
+
+    .nuts-ban-one-title h1 {
+        font-size: 30px;
+        line-height: normal;
+    }
+
+    .button-top-left {
+        width: 110%;
+        margin-left: 130px !important;
+    }
+
+    #nuts-ban-two {
+        padding: 0px;
+    }
+
+    #nuts-ban-two h2 {
+        padding-top: 0px;
+    }
+
+    .image-two {
+        margin-top: 50px;
+    }
+
+    .nuts-bantop-subt h3 {
+        padding: 0px 15px;
+    }
+
+    #nuts-ban-three {
+        padding: 0px;
+    }
+
+    .nuts-ban-three-sec-2 {
+        padding-top: 0px;
+    }
+
+    #nuts-ban-four {
+        padding: 0px;
+    }
+
+    .image-three {
+        margin-top: 50px;
+    }
+
+    .nuts-ban-five-sec2 h1 {
+
+        font-size: 37px;
+        padding-top: 30px;
+    }
+
+    .button-store {
+        width: 55%;
+        margin-bottom: 30px !important;
+    }
+
+    #nuts-ban-six {
+        padding: 30px 0px;
+    }
+
+    .footer-sec-1 {
+        padding-top: 10px;
+    }
+
+    .footer-sec-2 {
+        padding-top: 10px;
+    }
+
+    .btn-end {
+        margin-right: 20px;
+        margin-bottom: 20px;
+    }
+
+    .footer-sec-3 {
+        padding-top: 10px;
+    }
+    #info-ban-two{
+        padding: 0px 15px;
+    }
+    .nav-tabs {
+        padding: 0px 15px;
+    }
+    #banner-four{
+        padding: 0px 15px  70px 15px;
+    }
+    
+
+    #banner-three{
+        padding-bottom: 0px;
+    }
+    .followus{
+        padding-bottom: 50px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1199.98px) {
+    .container {
+        max-width: 100%;
+        padding: 0px;
+    }
+
+    .navbar {
+        padding: 0px 15px !important;
+    }
+
+    .ban-sec-1 {
+        padding: 0px;
+    }
+
+    .card {
+        margin: 30px;
+    }
+
+    .ban-one-title {
+        padding: 20px 15px;
+    }
+
+    .ban-one-subt {
+        padding: 20px 15px 0px 15px;
+    }
+
+    .button-one {
+        padding: 30px 15px 50px 15px;
+    }
+
+    #nuts-banner-top-sec2 {
+        padding: 0px 15px;
+    }
+
+    .nuts-bantop-subt h3 {
+        padding-left: 107px;
+    }
+
+    #nuts-ban-one {
+        padding: 0px;
+    }
+
+    .title {
+        padding-top: 55px;
+    }
+
+    .button-top-left {
+        width: 60%;
+        margin-left: 300px !important;
+        margin-top: 30px !important;
+    }
+
+    /*ban two*/
+    #nuts-ban-two {
+        padding: 0px;
+        padding-top: 40px;
+    }
+
+    #nuts-ban-two h2 {
+        padding-top: 0px;
+    }
+
+    #nuts-ban-three {
+        padding: 0px;
+        padding-top: 40px;
+    }
+
+    #nuts-ban-four {
+        padding: 0px;
+        padding-top: 40px;
+    }
+
+    .nuts-ban-five-sec2 h1 {
+        padding-top: 239px;
+        font-size: 42px;
+    }
+
+    .button-store {
+        width: 80%;
+        margin-bottom: 10px !important;
+    }
+
+    #nuts-ban-five {
+        margin-top: 30px;
+    }
+
+    #nuts-ban-six {
+        padding: 40px 0px 10px 0px;
+
+    }
+
+    /*vegeterian*/
+
+    #ban-two {
+        padding-top: 20px;
+    }
+
+    #info-ban-two {
+        padding: 0px 15px;
+    }
+
+    .navbar {
+        padding: 10px 15px !important;
+    }
+
+    .ban-two-title {
+        padding: 50px 15px;
+    }
+
+    .nav-tabs {
+        padding: 0px 15px;
+    }
+
+    #ban-four-section1 {
+        padding: 0px 30px;
+    }
+
+    #ban-five-sec1 {
+        padding: 0px 15px;
+    }
+
+    #banner-three {
+        padding-bottom: 0px;
+    }
+}
